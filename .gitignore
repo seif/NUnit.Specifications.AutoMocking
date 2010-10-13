@@ -13,3 +13,6 @@ NDependOut
 
 .setup-done
 .hg
+
+*.user
+*.userprefs

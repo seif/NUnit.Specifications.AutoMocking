@@ -1,11 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Specifications.AutoMocking.Moq", "NUnit.Specifications.AutoMocking.Moq\NUnit.Specifications.AutoMocking.Moq.csproj", "{35922B10-15D0-4214-897B-3398C5626EE4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Specifications.AutoMocking.Example", "NUnit.Specifications.AutoMocking.Example\NUnit.Specifications.AutoMocking.Example.csproj", "{DB028A83-6051-4718-A37D-5CE643BD5BCD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Specifications.AutoMocking.Rhino", "NUnit.Specifications.AutoMocking.Rhino\NUnit.Specifications.AutoMocking.Rhino.csproj", "{E5587C78-47AF-4177-A0F9-F472FB006B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Specifications.AutoMocking", "NUnit.Specifications.AutoMocking\NUnit.Specifications.AutoMocking.csproj", "{E80D3E15-C07B-4CF7-8587-B3F01F21DDDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{E5587C78-47AF-4177-A0F9-F472FB006B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5587C78-47AF-4177-A0F9-F472FB006B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5587C78-47AF-4177-A0F9-F472FB006B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80D3E15-C07B-4CF7-8587-B3F01F21DDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80D3E15-C07B-4CF7-8587-B3F01F21DDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80D3E15-C07B-4CF7-8587-B3F01F21DDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80D3E15-C07B-4CF7-8587-B3F01F21DDDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
